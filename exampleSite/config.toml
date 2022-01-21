@@ -1,4 +1,4 @@
-baseURL = "https://github.com/rcjach/hugo-webslides.git"
+baseURL = "https://heuristic-mahavira-163f65.netlify.app"
 languageCode = "fr-Fr"
 title = "Un siteHugo theme pour créer des Webslides.js presentations"
 disableKinds = ["sitemap", "RSS"]
